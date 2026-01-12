@@ -24,4 +24,4 @@ Projet web pour gérer des stagiaires développé avec **PHP**, **MySQL** et **B
 3. Le site est prêt à gérer les stagiaires
 
 ##  Auteur
-Ton nom
+ANDRINIAINA Voninirina Mirana
